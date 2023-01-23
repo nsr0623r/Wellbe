@@ -39,3 +39,4 @@ https://docs.google.com/spreadsheets/d/17jjOeWVqxCKGWtCYZ24tV2qNck4rtEFIfzeMRaP6
 - IDE：Cloud9
 
 ### 使用素材
+仕様検討中です。
